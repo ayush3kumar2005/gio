@@ -125,3 +125,4 @@ Download the template from the My Items page. If any row is wrong, nothing is im
 * Driving time is for a car with no traffic. The train option is a rough estimate.
 * Only truck CO₂ is counted (not electricity, waste, etc.).
 * One user, no login. A person must check every plan before ordering.
+# gio
